@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that as introduced?
+	Viewing the diff between two versions showed only the differences between the two and therefore only any changes that had been made and since the bug would have had to have been caused by one or more of the changes showing only the changes narrows down the code that needed to be searched for the bug 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	Having easy access to the entire history of a file would make me a more effiecient programmer as you are able to go back and see earlier versions of the code, and also see how it changed over time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	Pros: only save when have completed a change, 
+	Cons: may forget to save,
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Git allows saving multipe files so that multiple, related files that affect each other can all be saved at the same time such as an html and a css file for the same website. Systems that treat each file seperately are not designed for these kind of files.
+
+How can you use the commands git log and git diff to view the history of files?
+	git log shows a list of all commmits made to git, with a brief description by the person who made the commit of what the changes made before that commit were, this can hep you find where you made a praticular change. git diff shows the actual changes made to the code.
+
+How might using version control make you more confident to make changes that could break something?
+	using version control means that you are easily able to keep track of changes and return to an earlier version if needed
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	I want to use it to when developing the new version of the grazecalc app
+
+	
